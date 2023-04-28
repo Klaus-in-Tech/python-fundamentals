@@ -42,4 +42,4 @@ def my_function(parameter1, parameter2):
 - [Twitter](https://twitter.com/Klaus_in_Tech)
 - [Instagram](https://www.instagram.com/klaus_allan_/?igshid=ZDdkNTZiNTM%3D)
 
-### Feel free to connect with me on my social as listed above. 😊
+### Feel free to connect with me on my socials as listed above. 😊
