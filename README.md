@@ -40,6 +40,6 @@ def my_function(parameter1, parameter2):
 - [Github](https://github.com/Klaus-in-Tech)
 - [LinkedIn](https://www.linkedin.com/in/kakoozaallanklaus/)
 - [Twitter](https://twitter.com/Klaus_in_Tech)
-- [Instagram](https://www.instagram.com/klaus_allan_/?igshid=ZDdkNTZiNTM%3D)
+- [Instagram](https://instagram.com/klaus_allan_?igshid=ZDdkNTZiNTM=)
 
 ### Feel free to connect with me on my socials as listed above. 😊
